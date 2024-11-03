@@ -1,10 +1,10 @@
 # MythPvP
 
-MythPvP is a minecraft network by [@TheNextLvl-net](https://github.com/TheNextLvl-net).
+MythPvP is a minecraft network by [@NonSwag](https://github.com/NonSwag) and [@LuggaPugga](https://github.com/LuggaPugga).
 
 **Quickstart:**
 - Learn more on [mythpvp.net](https://mythpvp.net)
-- Support us by donating through [GitHub Sponsors](https://github.com/sponsors/TheNextLvl-net)
+- Support us by donating through [GitHub Sponsors](https://github.com/sponsors/NonSwag)
 - Join our community by [visiting our server](https://mythpvp.net) or chatting on our Discord server:
 
 <a href="https://thenextlvl.net/discord">
