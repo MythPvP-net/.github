@@ -8,5 +8,5 @@ MythPvP is a minecraft network by [@NonSwag](https://github.com/NonSwag) and [@L
 - Join our community by [visiting our server](https://mythpvp.net) or chatting on our Discord server:
 
 <a href="https://thenextlvl.net/discord">
-         <img alt="MythPvP Discord" src="https://discord.com/api/guilds/1293606111177609277/widget.png?style=banner2">
+         <img alt="MythPvP Discord" src="https://discord.com/api/guilds/1302695339593302136/widget.png?style=banner2">
 </a>
