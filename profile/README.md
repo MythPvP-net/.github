@@ -5,7 +5,7 @@ MythPvP is a minecraft network by [@NonSwag](https://github.com/NonSwag) and [@L
 **Quickstart:**
 - Learn more on [mythpvp.net](https://mythpvp.net)
 - Support us by donating through [GitHub Sponsors](https://github.com/sponsors/NonSwag)
-- Join our community by [visiting our server](https://mythpvp.net) or chatting on our Discord server:
+- Join our community on Discord:
 
 <a href="https://discord.gg/yMDZBqN5fw">
          <img alt="MythPvP Discord" src="https://discord.com/api/guilds/1302695339593302136/widget.png?style=banner2">
