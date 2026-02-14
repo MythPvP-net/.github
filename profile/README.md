@@ -1,5 +1,8 @@
 # MythPvP
 
+> [!NOTE]
+> Developement of MythPvP has not yet begun.
+
 MythPvP is a minecraft network by [@NonSwag](https://github.com/NonSwag) and [@LuggaPugga](https://github.com/LuggaPugga).
 
 **Quickstart:**
